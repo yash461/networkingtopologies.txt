@@ -1,0 +1,4 @@
+there are 3 types of topologies
+1)ring topology
+2)star topology
+3)bus topology
